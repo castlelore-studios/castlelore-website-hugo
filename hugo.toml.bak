@@ -1,0 +1,16 @@
+baseURL = 'https://castlelorestudios.com/'
+languageCode = 'en-us'
+title = 'Castlelore Studios LLC'
+theme = "hugo-split-theme"
+
+[[params.visual.image]]
+enable = true
+file = "images/game_promo.png"
+position = "center center"
+
+[[params.visual.video]]
+enable = false
+mute = true
+youtubeId = "dk9uNWPP7EA"
+
+
