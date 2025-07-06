@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'FigtreeFont';
+  src: url('/fonts/static/Figtree-Medium.ttf') format('truetype'),
+       url('/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+  /* Add other font formats as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2.tagline {
+  font-family: 'FigtreeFont', sans-serif; /* Replace 'Your Chosen Font' with the name of your desired font */
+}
+

@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'FigtreeFont';
+  src: url('/fonts/static/Figtree-VariableFont_wght.woff2') format('woff2');
+  /* Add other font formats as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CaudexFont';
+  src: url('/fonts/static/Caudex-Regular.woff2') format('woff2');
+  /* Add other font formats as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2 {
+  font-family: 'FigtreeFont', sans-serif;   
+}
+
+p {
+  font-family: 'CaudexFont', serif; 
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  text-align: justify;
+  text-justify: inter-word;
+  color: #ffff;
+  line-height: 1.8;
+}

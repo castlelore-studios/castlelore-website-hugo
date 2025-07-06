@@ -7,6 +7,8 @@ copyright = '© 2025 Castlelore Studios LLC'
 enableEmoji = true
 enableRobotsTXT = true
 
+custom_css = ["css/custom.css"]
+
 logo = "images/LogoWhite.png"
 favicon = "images/favicon.ico"
 
@@ -17,7 +19,7 @@ favicon = "images/favicon.ico"
   youtubeId = "eSga-3FKrpk"
 
 [params.custom.css]
-enable = true
+  enable = true
 
 [params]
   author = "Castlelore Studios LLC"
@@ -36,3 +38,4 @@ enable = true
       text = "Discord"
       url = "https://discord.com/invite/nZZrUMXUsS"
       new_tab = true # new tab
+
