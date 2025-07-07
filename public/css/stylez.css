@@ -31,14 +31,14 @@ p {
 .social-icons {
   display: flex;
   gap: 1rem;
-  justify-content: center;
+  justify-content: left;
   margin: 1.5rem 0;
 }
 
 .social-icons a {
   display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;

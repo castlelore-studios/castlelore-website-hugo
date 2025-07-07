@@ -30,12 +30,3 @@ favicon = "images/favicon.ico"
   instagramHandle = "castlelore_studios"
   discordInvite = "https://discord.gg/4a2b6Z5"
 
-[[params.links]]
-  [params.links.list1]
-    heading = "Connect"
-
-    [[params.links.list1.link]]
-      text = "Discord"
-      url = "https://discord.com/invite/nZZrUMXUsS"
-      new_tab = true # new tab
-
