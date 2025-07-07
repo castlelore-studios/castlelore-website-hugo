@@ -12,6 +12,8 @@ There were more now. More than he could mark in a single night. But he tried any
 
 The stone beneath his knees was cold, worn by weather and the friction of ritual. The roof above had collapsed years ago, maybe in a storm, maybe under the weight of forgotten faith. The altar had crumbled. The benches had rotted. And yet, Gerrick remained. Paladin. Oathkeeper. Or something lesser, depending on who told the story.
 
+{{< figure src="/images/gerrick.webp" title="Gerrick" >}}
+
 He etched each name with a rusted dagger once gifted by his first commander. It no longer cut cleanly, but that seemed fitting. The names didn’t belong to clean deaths.
 
 He remembered the final march through the Timberline Front, the screams tangled in the branches, the bodies wrapped in bark and buried without rites. They hadn’t died in glory. They had died in orders. His orders.
@@ -44,6 +46,8 @@ She reached the top and unwrapped the bundle she'd carried all the way from the 
 
 She felt it in her chest like a second pulse.
 
+{{< figure src="/images/lila-disbelief.png" title="Lila" >}}
+
 Taro had taught her how to read the stars. How to lie with grace. How to break into vaults without stealing anything but truth. And then one night, he was gone. No farewell. No answers. Only silence and the maps no one else could read.
 
 She never stopped looking.
@@ -67,6 +71,8 @@ It had taken Vizious years to return to the amphitheater.
 Not because he feared it—though he did—but because part of him still waited to be welcomed. Even after exile. Even after the ink had dried on the parchment of his disgrace. Even after she vanished.
 
 The arches of Noctherein were cracked now, haunted by stray wind and the scent of scorched vellum. Dust clung to the shelves like the memory of what had once been sacred. The great dome had collapsed in on itself, and the stars no longer passed above its shattered crown.
+
+{{< figure src="/images/vizious_center_face.png" title="Vizious" >}}
 
 He traced the wall where her name had once been carved beside his. Seren.
 

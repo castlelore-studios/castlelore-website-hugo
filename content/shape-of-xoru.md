@@ -3,6 +3,9 @@ date = '2025-07-04T22:10:51-10:00'
 draft = false
 title = 'The Shape of Xoru'
 +++
+
+The Shape of Xoru is a dark, mythic exploration of a fractured world haunted by the remnants of dreams and nightmares. Once unified by peace and meaning, Xoru is now torn by a mysterious rift between two realms.
+
 # The Shape of Xoru
 
 ---
@@ -13,6 +16,8 @@ Not in the way of geography or empire, but in how it felt, how breath moved thro
 But something broke.
 
 And now, Xoru is a world stitched along the seam of a wound it doesn’t understand.
+
+{{< figure src="/images/xorumap.webp" title="Map of Xoru" >}}
 
 ## The Dream and the Dark
 
@@ -113,6 +118,8 @@ Because they’ve already started leaving knives beneath the pillows.
 ### The Cost of Forgetting
 
 The Dreamweaver’s Tomb isn’t a legend. It’s a scar. A place where the wall between what’s real and what’s waiting wears thin. Most people don’t believe it’s real.
+
+{{< figure src="/images/ruins.webp" title="Edifice Ruin" >}}
 
 They believe in headaches. In babies born blind but speaking perfect high Sunthornic. In fires that burn blue.
 

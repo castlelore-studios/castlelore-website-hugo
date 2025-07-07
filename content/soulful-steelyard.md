@@ -3,11 +3,14 @@ date = '2025-07-04T22:10:29-10:00'
 draft = false
 title = 'Soulful Steelyard'
 +++
+
 ## The Soulful Steelyard
 
 A whispered mechanism. A dream-forged machine. A weight that must always be borne.
 
 It is not seen with eyes but felt in the soul's marrow—this Steelyard. Half symbol, half construct, it was shaped in the first moments of the Sunrise Age, when the world still remembered the gods, and Light sought to hold its ground against the long night.
+
+{{< figure src="/images/steelyard.webp" title="The Soulful Steelyard" >}}
 
 They say the powers of Light could not destroy the Darkness outright—only measure it. And so, beneath the world, behind the veil, they built the Steelyard. A vast and hidden scale, metaphysical in purpose but real enough to bleed. It balances virtue and vice, and when it falters, so too does the Dreamweaver—the living fulcrum of the world.
 
