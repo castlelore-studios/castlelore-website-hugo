@@ -27,3 +27,41 @@ p {
   color: #ffff;
   line-height: 1.8;
 }
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: #222;
+  color: #fff;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s, transform 0.2s;
+  font-size: 1.4rem;
+}
+
+.social-icons a:hover,
+.social-icons a:focus {
+  background: #444;
+  color: #ffd700;
+  transform: scale(1.1);
+}
+
+.social-icons svg {
+  width: 1.4rem;
+  height: 1.4rem;
+  fill: currentColor;
+}
+
+ul {
+  list-style-type: none;
+}
