@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INTRODUCING THE DEMO on Castlelore Studios</title>
-    <link>http://localhost:1313/</link>
+    <link>https://castlelorestudios.com/</link>
     <description>Recent content in INTRODUCING THE DEMO on Castlelore Studios</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Castlelore Studios LLC</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 23:48:14 -1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://castlelorestudios.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prologue</title>
-      <link>http://localhost:1313/prologue/</link>
+      <link>https://castlelorestudios.com/prologue/</link>
       <pubDate>Fri, 04 Jul 2025 23:48:14 -1000</pubDate>
-      <guid>http://localhost:1313/prologue/</guid>
+      <guid>https://castlelorestudios.com/prologue/</guid>
       <description>&lt;h2 id=&#34;gerrick&#34;&gt;Gerrick&lt;/h2&gt;&#xA;&lt;p&gt;Gerrick knelt in silence, not to pray—but to keep the names from vanishing.&lt;/p&gt;&#xA;&lt;p&gt;There were more now. More than he could mark in a single night. But he tried anyway.&lt;/p&gt;&#xA;&lt;p&gt;The stone beneath his knees was cold, worn by weather and the friction of ritual. The roof above had collapsed years ago, maybe in a storm, maybe under the weight of forgotten faith. The altar had crumbled. The benches had rotted. And yet, Gerrick remained. Paladin. Oathkeeper. Or something lesser, depending on who told the story.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Shape of Xoru</title>
-      <link>http://localhost:1313/shape-of-xoru/</link>
+      <link>https://castlelorestudios.com/shape-of-xoru/</link>
       <pubDate>Fri, 04 Jul 2025 22:10:51 -1000</pubDate>
-      <guid>http://localhost:1313/shape-of-xoru/</guid>
+      <guid>https://castlelorestudios.com/shape-of-xoru/</guid>
       <description>&lt;p&gt;The Shape of Xoru is a dark, mythic exploration of a fractured world haunted by the remnants of dreams and nightmares. Once unified by peace and meaning, Xoru is now torn by a mysterious rift between two realms.&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-shape-of-xoru&#34;&gt;The Shape of Xoru&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;They say the world used to be one.&lt;/p&gt;&#xA;&lt;p&gt;Not in the way of geography or empire, but in how it felt, how breath moved through it, how sleep came without fear. There were dreams then, yes. But they were soft things. Maps of the soul. Not traps. Not teeth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Soulful Steelyard</title>
-      <link>http://localhost:1313/soulful-steelyard/</link>
+      <link>https://castlelorestudios.com/soulful-steelyard/</link>
       <pubDate>Fri, 04 Jul 2025 22:10:29 -1000</pubDate>
-      <guid>http://localhost:1313/soulful-steelyard/</guid>
-      <description>&lt;h2 id=&#34;the-soulful-steelyard&#34;&gt;The Soulful Steelyard&lt;/h2&gt;&#xA;&lt;p&gt;A whispered mechanism. A dream-forged machine. A weight that must always be borne.&lt;/p&gt;&#xA;&lt;p&gt;It is not seen with eyes but felt in the soul&amp;rsquo;s marrow—this Steelyard. Half symbol, half construct, it was shaped in the first moments of the Sunrise Age, when the world still remembered the gods, and Light sought to hold its ground against the long night.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/steelyard.webp&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;The Soulful Steelyard&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;They say the powers of Light could not destroy the Darkness outright—only measure it. And so, beneath the world, behind the veil, they built the Steelyard. A vast and hidden scale, metaphysical in purpose but real enough to bleed. It balances virtue and vice, and when it falters, so too does the Dreamweaver—the living fulcrum of the world.&lt;/p&gt;</description>
+      <guid>https://castlelorestudios.com/soulful-steelyard/</guid>
+      <description>&lt;h2 id=&#34;the-soulful-steelyard&#34;&gt;The Soulful Steelyard&lt;/h2&gt;&#xA;&lt;p&gt;A whispered mechanism. A dream-forged machine. A weight that must always be borne.&lt;/p&gt;&#xA;&lt;p&gt;It is not seen with eyes but felt in the soul&amp;rsquo;s marrow—this Steelyard. Half symbol, half construct, it was shaped in the first moments of the Sunrise Age, when the world still remembered the gods, and Light sought to hold its ground against the long night.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://castlelorestudios.com/images/steelyard.webp&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;The Soulful Steelyard&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;They say the powers of Light could not destroy the Darkness outright—only measure it. And so, beneath the world, behind the veil, they built the Steelyard. A vast and hidden scale, metaphysical in purpose but real enough to bleed. It balances virtue and vice, and when it falters, so too does the Dreamweaver—the living fulcrum of the world.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

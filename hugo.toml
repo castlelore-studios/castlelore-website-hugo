@@ -7,7 +7,7 @@ copyright = '© 2025 Castlelore Studios LLC'
 enableEmoji = true
 enableRobotsTXT = true
 
-custom_css = ["css/custom.css"]
+custom_css = ["css/stylez.css"]
 
 logo = "images/LogoWhite.png"
 favicon = "images/favicon.ico"
