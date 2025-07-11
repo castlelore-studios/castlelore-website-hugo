@@ -42,6 +42,8 @@ It’s something you brace against.
 
 "The world remembers what we forget. That’s why the wind cries different when it’s near."
 
+{{< figure src="/images/barbarian.png" title="Wilderburrow Barbarian" >}}
+
 The centaurs of Wilderburrow do not write history. They remember it in silence, in hoof-beaten trails, in sacred trees blackened by fire they do not speak of.
 
 - They name their children only after five winters.
@@ -92,10 +94,15 @@ Scribes tattoo binding phrases down their arms in case they forget them.
 Glyphsmiths have begun to go missing, mid-sentence.
 Students are taught to read with blindfolds, to keep their minds from leaking into what they’re learning.
 Vizious left that world chasing a silence shaped like a woman’s last smile.
-The Wanderers of Nameless Erdwelm
+
+
+# The Wanderers of Nameless Erdwelm
+
 “Some songs aren’t sung. They just wait for you to sleep.”
 
 They live in ruins of a lost empire, where no map leads and no name holds. To them, the Dreamworld is a forgotten story—unfinished and now waking up.
+
+{{< figure src="/images/greekguy.png" title="Wanderer" >}}
 
 They tattoo their dreams down their backs, one line per night.
 The old women hum lullabies in reverse, so the past doesn’t hear them coming.
@@ -105,7 +112,7 @@ And sing anyway.
 
 ### What People Actually Know
 
-Most of Xoru does not know the name of the Soulful Steelyard, or the Dreamweaver who bleeds beneath the world to hold the boundary shut.
+Most of Xoru does not know the name of the [Soulful Steelyard]({{< ref "soulful-steelyard.md" >}}), or the Dreamweaver, who bleeds beneath the world to hold the boundary shut, or about the cosmic struggle between [Moraduum]({{< ref "moraduum.md" >}}) and his cast-off shadow.
 
 But they know something’s wrong.
 
