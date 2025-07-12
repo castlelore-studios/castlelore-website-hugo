@@ -4,6 +4,7 @@ title = 'Castlelore Studios'
 theme = "hugo-split-theme"
 
 copyright = '© 2025 Castlelore Studios LLC'
+licensed = true
 enableEmoji = true
 enableRobotsTXT = true
 

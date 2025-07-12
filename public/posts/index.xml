@@ -2,33 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Castlelore Studios</title>
-    <link>https://castlelorestudios.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Castlelore Studios</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Castlelore Studios LLC</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 23:48:14 -1000</lastBuildDate>
-    <atom:link href="https://castlelorestudios.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prologue</title>
-      <link>https://castlelorestudios.com/posts/prologue/</link>
-      <pubDate>Fri, 04 Jul 2025 23:48:14 -1000</pubDate>
-      <guid>https://castlelorestudios.com/posts/prologue/</guid>
-      <description>&lt;h2 id=&#34;gerrick&#34;&gt;Gerrick&lt;/h2&gt;&#xA;&lt;p&gt;Gerrick knelt in silence, not to pray—but to keep the names from vanishing.&lt;/p&gt;&#xA;&lt;p&gt;There were more now. More than he could mark in a single night. But he tried anyway.&lt;/p&gt;&#xA;&lt;p&gt;The stone beneath his knees was cold, worn by weather and the friction of ritual. The roof above had collapsed years ago, maybe in a storm, maybe under the weight of forgotten faith. The altar had crumbled. The benches had rotted. And yet, Gerrick remained. Paladin. Oathkeeper. Or something lesser, depending on who told the story.&lt;/p&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/posts/lila/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lila/</guid>
+      <description></description>
     </item>
     <item>
-      <title>The Shape of Xoru</title>
-      <link>https://castlelorestudios.com/posts/shape-of-xoru/</link>
-      <pubDate>Fri, 04 Jul 2025 22:10:51 -1000</pubDate>
-      <guid>https://castlelorestudios.com/posts/shape-of-xoru/</guid>
-      <description>&lt;h1 id=&#34;the-shape-of-xoru&#34;&gt;The Shape of Xoru&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;They say the world used to be one.&lt;/p&gt;&#xA;&lt;p&gt;Not in the way of geography or empire, but in how it felt, how breath moved through it, how sleep came without fear. There were dreams then, yes. But they were soft things. Maps of the soul. Not traps. Not teeth.&lt;/p&gt;&#xA;&lt;p&gt;But something broke.&lt;/p&gt;&#xA;&lt;p&gt;And now, Xoru is a world stitched along the seam of a wound it doesn’t understand.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Soulful Steelyard</title>
-      <link>https://castlelorestudios.com/posts/soulful-steelyard/</link>
-      <pubDate>Fri, 04 Jul 2025 22:10:29 -1000</pubDate>
-      <guid>https://castlelorestudios.com/posts/soulful-steelyard/</guid>
-      <description>&lt;h2 id=&#34;the-soulful-steelyard&#34;&gt;The Soulful Steelyard&lt;/h2&gt;&#xA;&lt;p&gt;A whispered mechanism. A dream-forged machine. A weight that must always be borne.&lt;/p&gt;&#xA;&lt;p&gt;It is not seen with eyes but felt in the soul&amp;rsquo;s marrow—this Steelyard. Half symbol, half construct, it was shaped in the first moments of the Sunrise Age, when the world still remembered the gods, and Light sought to hold its ground against the long night.&lt;/p&gt;&#xA;&lt;p&gt;They say the powers of Light could not destroy the Darkness outright—only measure it. And so, beneath the world, behind the veil, they built the Steelyard. A vast and hidden scale, metaphysical in purpose but real enough to bleed. It balances virtue and vice, and when it falters, so too does the Dreamweaver—the living fulcrum of the world.&lt;/p&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/posts/vizious/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vizious/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
