@@ -31,3 +31,9 @@ favicon = "images/favicon.ico"
   instagramHandle = "castlelore_studios"
   discordInvite = "https://discord.gg/4a2b6Z5"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+      

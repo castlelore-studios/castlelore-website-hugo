@@ -70,3 +70,24 @@ ul {
   color: #ffffff;
   background-color: #ff0000;
 }
+
+.more-link:hover {
+  background-color: #cc0000;
+  color: #ffd700;
+  text-decoration: underline;
+}
+
+.more-link:link {
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+.more-link:visited {
+  color: #cccccc;
+  background-color: #000000;
+}
+
+.more-link:active {
+  color: #ffd700;
+  background-color: #cc0000;
+}

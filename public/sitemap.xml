@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://castlelorestudios.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-12T11:19:27-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/player/</loc>
+    <loc>http://localhost:1313/player/</loc>
     <lastmod>2025-07-12T11:19:27-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/barbarian/</loc>
+    <loc>http://localhost:1313/barbarian/</loc>
     <lastmod>2025-07-12T11:19:23-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/vizious/</loc>
+    <loc>http://localhost:1313/vizious/</loc>
     <lastmod>2025-07-12T11:16:21-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/lila/</loc>
+    <loc>http://localhost:1313/lila/</loc>
     <lastmod>2025-07-12T11:16:18-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/gerrick/</loc>
+    <loc>http://localhost:1313/gerrick/</loc>
     <lastmod>2025-07-12T11:15:26-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/character-bios/</loc>
+    <loc>http://localhost:1313/character-bios/</loc>
     <lastmod>2025-07-10T18:19:12-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/moraduum/</loc>
+    <loc>http://localhost:1313/moraduum/</loc>
     <lastmod>2025-07-08T15:58:16-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/prologue/</loc>
+    <loc>http://localhost:1313/prologue/</loc>
     <lastmod>2025-07-04T23:48:14-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/shape-of-xoru/</loc>
+    <loc>http://localhost:1313/shape-of-xoru/</loc>
     <lastmod>2025-07-04T22:10:51-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/soulful-steelyard/</loc>
+    <loc>http://localhost:1313/soulful-steelyard/</loc>
     <lastmod>2025-07-04T22:10:29-10:00</lastmod>
   </url><url>
-    <loc>https://castlelorestudios.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://castlelorestudios.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
