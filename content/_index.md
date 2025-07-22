@@ -6,5 +6,4 @@ The nightmares that haunt your dreams are real, and they are escaping. In this g
 
 As the Dreamweaver’s power wanes, you must navigate a desolate tomb that seems to exist in another world. With branching storylines, cryptic lore, hand-drawn gothic visuals, and a haunting original soundtrack, explore a world shaped by your decisions. But be warned, every choice you make brings you closer to salvation—or to something worse than death.
 
-{{< widgets  >}}
 

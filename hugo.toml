@@ -27,12 +27,18 @@ enable = true
   facebookPage = "CastleloreStudios"
   instagramHandle = "castlelore_studios"
   discordInvite = "https://discord.gg/4a2b6Z5"
+  licensed = "true"
 
-[[params.links]]
-  [params.links.list1]
-    heading = "Connect"
-
-    [[params.links.list1.link]]
-      text = "Discord"
-      url = "https://discord.com/invite/nZZrUMXUsS"
-      new_tab = true # new tab
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Demo"
+    url = "/demo"
+    weight = 20
+  [[menu.main]]
+    name = "Wiki"
+    url = "/wiki"
+    weight = 30

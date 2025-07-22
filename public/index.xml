@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INTRODUCING THE DEMO on Castlelore Studios</title>
-    <link>https://castlelorestudios.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in INTRODUCING THE DEMO on Castlelore Studios</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Castlelore Studios LLC</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://castlelorestudios.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 23:21:30 -1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>http://localhost:1313/demo/</link>
+      <pubDate>Mon, 21 Jul 2025 23:21:30 -1000</pubDate>
+      <guid>http://localhost:1313/demo/</guid>
+      <description>&lt;div&gt;&#xA;    &lt;iframe src=&#34;https://widgets.gamejolt.com/package/v1?key=RkxzrD7q&#34; frameborder=&#34;0&#34; width=&#34;500&#34;&#xA;        height=&#34;245&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;iframe width=&#34;600&#34; height=&#34;180&#34; src=&#34;https://www.indiedb.com/games/xoru-the-nightmare-wars/widget&#34;&#xA;        frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br&gt;&lt;a href=&#34;https://www.indiedb.com/games/xoru-the-nightmare-wars&#34;&gt;Xoru: The Nightmare&#xA;        Wars Demo game - IndieDB&lt;/a&gt;&#xA;    &lt;iframe src=&#34;https://store.steampowered.com/widget/3431270/&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;100%&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;iframe frameborder=&#34;0&#34;&#xA;        src=&#34;https://itch.io/embed/3199147?bg_color=222222&amp;amp;fg_color=eeeeee&amp;amp;link_color=b92ed8&amp;amp;border_color=363636&#34;&#xA;        width=&#34;100%&#34; height=&#34;100%&#34;&gt;&lt;a href=&#34;https://castlelorestudios.itch.io/xoru-nightmare-wars&#34;&gt;Xoru: Nightmare Wars&#xA;            Demo by Castlelore Studios LLC&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
