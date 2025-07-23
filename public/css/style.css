@@ -150,3 +150,53 @@ p {
   background-color: #cc0000;
 }
 
+/* Responsive: Mobile Styles */
+@media (max-width: 800px) {
+  .nav-container {
+    display: flexbox;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #222;
+    padding: 0 0;
+  }
+
+  .nav-logo {
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #222;
+    padding: 0 1rem;
+    order: 1;
+  }
+
+  nav[aria-label="Main Navigation"] img {
+    margin-right: 48px;
+    height: 48px;
+    align-self: center;
+    align-items: center;
+}
+
+  .nav-menus  {
+    flex-direction: column;
+    width: 100%;
+    align-self: center;
+    align-items: center;
+    order: 2;
+  }
+
+  nav .social-icons {
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0 0rem;
+    order: 3;
+  }
+
+  .columns {
+    margin-top: 7rem;
+  }
+}

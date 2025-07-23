@@ -1,17 +1,21 @@
 <nav aria-label="Main Navigation">
 
   <div class="nav-container">
-    <ul>
-      {{ range .Site.Menus.main }}
-      <li style="margin-right: 48px;">
-        <a href="{{ .URL }}">{{ .Name }}</a>
-      </li>
-      {{ end }}
-    </ul>
-    <img class="logo" src="/images/LogoWhite.png" alt="logo white" />
+    <div class="nav-menus">
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li style="margin-right: 48px;">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
 
-   {{ partial "social-icons" . }}
+    <div class="nav-logo">
+      <img class="logo" src="/images/LogoWhite.png" alt="logo white" />
+    </div>
+
+    {{ partial "social-icons" . }}
 
   </div>
-
 </nav>
