@@ -1,6 +1,6 @@
 <nav aria-label="Main Navigation">
-  <div style="display: flex; align-items: center;">
-    <img src="/images/LogoWhite.png" alt="logo white" />
+
+  <div class="nav-container">
     <ul>
       {{ range .Site.Menus.main }}
       <li style="margin-right: 48px;">
@@ -8,9 +8,10 @@
       </li>
       {{ end }}
     </ul>
+    <img class="logo" src="/images/LogoWhite.png" alt="logo white" />
+
    {{ partial "social-icons" . }}
 
   </div>
- 
 
 </nav>
