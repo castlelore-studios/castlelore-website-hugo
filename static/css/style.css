@@ -151,7 +151,7 @@ p {
 }
 
 /* Responsive: Mobile Styles */
-@media (max-width: 800px) {
+@media only screen and (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
   .nav-container {
     display: flexbox;
     flex-direction: column;
