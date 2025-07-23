@@ -29,6 +29,8 @@ enable = true
   discordInvite = "https://discord.gg/4a2b6Z5"
   licensed = "true"
 
+ignoreLogs = ['warning-goldmark-raw-html']
+
 [menu]
   [[menu.main]]
     name = "Home"

@@ -29,6 +29,13 @@ nav[aria-label="Main Navigation"] a {
     top: 5px;
 }
 
+nav[aria-label="Main Navigation"] a:hover,
+nav[aria-label="Main Navigation"] a:focus {
+  color: #ffd700;
+  background: #444;
+  text-decoration: underline;
+}
+
 @font-face {
   font-family: 'FigtreeFont';
   src: url('/fonts/static/Figtree-VariableFont_wght.woff2') format('woff2');
@@ -70,26 +77,37 @@ p {
     z-index: 100;
 }
 
-
 .social-icons a {
-  display: inline-flex;
-  align-items: left;
-  justify-content: left;
-  width: 1.5rem;
-  height: 1.5rem;
-  border-radius: 50%;
-  background: #222;
-  color: #fff;
-  text-decoration: none;
-  transition: background 0.2s, color 0.2s, transform 0.2s;
-  font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s, transform 0.2s;
+    font-size: 1.4rem;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .social-icons a:hover,
 .social-icons a:focus {
-  background: #444;
-  color: #ffd700;
-  transform: scale(1.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s, transform 0.2s;
+    font-size: 1.4rem;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .social-icons svg {
