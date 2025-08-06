@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/bes/Documents/src/castlelore-website-hugo",
+	"sourceRoot": "/home/bes/Documents/src/castlelore-website-hugo-main",
 	"sources": [
 		"themes/hugo-split-theme/assets/scss/split.scss",
 		"themes/hugo-split-theme/assets/scss/_normalize.scss",

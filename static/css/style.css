@@ -32,6 +32,7 @@
 .social-icons a.icon:hover {
     transform: scale(1.15);
     background-color: rgba(0, 0, 0, 0.05); /* subtle hover effect */
+    opacity: 1;
 }
 
 .social-icons img.icon,
@@ -39,7 +40,11 @@
     width: 100%;
     height: auto;
     max-width: 28px;
+    opacity: 0.7; /* Initial opacity (70% visible) */
+    transition: opacity 0.3s ease; /* Smooth transition over 0.3 seconds */
 }
+
+
 
 .nav-container {
     display: flex;
@@ -200,3 +205,4 @@ p {
     margin-top: 7rem;
   }
 }
+
